@@ -23,7 +23,7 @@
 ##### Returning Users are able to either sign in with their credentials or choose to use the Google Oauth Flow and sign in with their Google Account:
 ![Locator-sign-in](https://user-images.githubusercontent.com/40578449/111659844-c567f480-87ca-11eb-8c7c-3fd0e9ff1ebe.PNG)
 ##### New Users can register for an account, or an unregistered User can register with their Google Account. Once an unregistered user has succesfully registered they will be prompted to create an organization:
-
+![Locator-sign-up](https://user-images.githubusercontent.com/40578449/111659941-dadd1e80-87ca-11eb-9de0-3f0a52e05ff2.PNG)
 ##### Once a user has an account and an organization they will be able to view all Users in their organization and add new / delete users:
 
 ##### Users will then be able to view all of their Stores and the quantity of each store. AS well as add, edit, and delete those stores:

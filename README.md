@@ -27,6 +27,6 @@
 ##### Once a user has an account and an organization they will be able to view all Users in their organization and add new / delete users:
 ![Locator-account](https://user-images.githubusercontent.com/40578449/111660082-fb0cdd80-87ca-11eb-96de-bfe97a7aa34e.PNG)
 ##### Users will then be able to view all of their Stores and the quantity of each store. AS well as add, edit, and delete those stores:
-
+![Locator-Edit](https://user-images.githubusercontent.com/40578449/111660202-137cf800-87cb-11eb-887c-2b627d596ded.PNG)
 ##### They will also be able to see the code that they need to include in the HTML, CSS, and JS as well as the Map view that the code generates:
 

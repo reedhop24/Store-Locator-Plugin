@@ -29,4 +29,4 @@
 ##### Users will then be able to view all of their Stores and the quantity of each store. AS well as add, edit, and delete those stores:
 ![Locator-Edit](https://user-images.githubusercontent.com/40578449/111660202-137cf800-87cb-11eb-887c-2b627d596ded.PNG)
 ##### They will also be able to see the code that they need to include in the HTML, CSS, and JS as well as the Map view that the code generates:
-
+![Locator-Map](https://user-images.githubusercontent.com/40578449/111660314-314a5d00-87cb-11eb-89da-f934b181fee6.PNG)

@@ -1,0 +1,151 @@
+/* App */
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f8f9fa;
+}
+
+h4 {
+  font-weight: 600;
+}
+
+.form {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+  padding: 50px;
+  background-color: white;
+  border-radius:8px;
+}
+
+.form-control:focus {
+  border-color: #E57F19;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+}
+
+.centered-col {
+  text-align: center;
+}
+
+.row {
+  margin-top: 5%;
+}
+
+.centered-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h6 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+i {
+  font-size: 30px;
+}
+
+.btn {
+  background-color: #0EA600;
+  border-color: #0EA600;
+}
+
+.btn:hover {
+  background-color: #E57F19;
+  border-color: #E57F19;
+}
+
+.btn:focus {
+  background-color: #E57F19;
+  border-color: #E57F19;
+}
+
+/* NavBar */
+.nav {
+  padding-left:10%;
+  padding-right:10%;
+  padding-bottom:20px;
+  padding-top: 20px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.nav-custom {
+  background-color: white;
+}
+
+.user-image {
+  display: inline-block;
+  margin-right: 20px;
+  padding-top: 10px;
+  height: 45px;
+  margin-bottom: 10px;
+}
+
+.generic-image {
+  margin-right: 20px;
+}
+
+.user-image-list {
+  display: inline-block;
+  height: 35px;
+}
+
+.user-image-container {
+  text-align: center;
+}
+
+.nav-link {
+  margin-left: 20px;
+}
+
+.nav-text {
+  color: #333333;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 600;
+}
+
+.nav-text:hover {
+  text-decoration: none;
+  color:#E57F19;
+}
+
+.nav-header {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 800;
+  color: #333333;
+}
+
+.container {
+  font-family: 'Rubik', sans-serif;
+}
+
+/* Auth */
+
+a {
+  color: #333333;
+}
+
+a:hover {
+  text-decoration: none;
+  color:#E57F19;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-submit {
+  margin-bottom:20px;
+}
+
+/* Map */
+#googleMap {
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  border-radius:8px;
+}
+
+textarea {
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  border-radius:8px;
+}
